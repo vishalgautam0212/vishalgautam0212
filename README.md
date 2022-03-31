@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently Technical Trainee(SDET) at *[Gemini Solutions Pvt Ltd.]()*
+- 🔭 I’m a Technical Trainee(SDET) at *[Gemini Solutions Pvt Ltd.]()*
 
 - 🌱 I’m currently learning *[Data Structures and Algorithms.]()*
 
